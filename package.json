@@ -1,0 +1,19 @@
+{
+  "name": "bot-24-7-afk",
+  "version": "1.0.0",
+  "description": "Bot chạy 24/7 độc lập trên hosting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["bot", "24-7", "afk"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
